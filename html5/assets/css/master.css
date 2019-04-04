@@ -1,0 +1,18 @@
+body {
+	background-color: #d5e1df;
+}
+
+article{
+	background-color: #b5e7a0;
+}
+
+article p{
+	background-color: #86af49;
+	border-radius: 7px;
+}
+
+.parrafo1{
+	border-radius: 15px;
+	background-color: #e3eaa7;
+	margin-left: 50px;
+}
